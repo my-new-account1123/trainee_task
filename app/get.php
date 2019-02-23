@@ -46,7 +46,7 @@ foreach ($url as $coin) {
 	<div class="form-group">
 		<input type="hidden" id="custId" name="postID" value="'.$id.'">
 	</div>	
-	<button type="submit" class="btn btn-primary">Submit</button>
+	<button type="submit" class="btn btn-primary">Изменить</button>
 </form>
 	</td> ';
 }
